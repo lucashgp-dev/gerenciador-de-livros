@@ -15,7 +15,7 @@ Este projeto é um gerenciador de livros, com ele é possível adicionar, editar
 
 
 <p align="center">
-  <img alt="Gerenciador de Livros" src=".github/gerenciador.gif" width="30%">
+  <img alt="Gerenciador de Livros" src=".github/gerenciador.gif" width="45%">
 </p>
 
 
